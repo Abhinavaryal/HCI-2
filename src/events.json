@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "gamre",
+        "description": "bla bla bla blabla blabla blabla blabla blabla bla",
+        "location": "HUB",
+        "Parking": 1,
+        "Event_rating": 4.0,
+        "cost": 0,
+        "imag_url": "https://www.swamprentals.com/uploads/images/The%20Ridge%20Gainesville%205.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "gamre",
+        "description": "bla bla",
+        "location": "HUB",
+        "Parking": 1,
+        "Event_rating": 4.0,
+        "cost": 800,
+        "imag_url": "https://www.swamprentals.com/uploads/images/The%20Ridge%20Gainesville%205.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "gamre",
+        "description": "bla bla",
+        "location": "HUB",
+        "Parking": 1,
+        "Event_rating": 4.0,
+        "cost": 800,
+        "imag_url": "https://www.swamprentals.com/uploads/images/The%20Ridge%20Gainesville%205.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "gamre",
+        "description": "bla bla",
+        "location": "HUB",
+        "Parking": 1,
+        "Event_rating": 4.0,
+        "cost": 800,
+        "imag_url": "https://www.swamprentals.com/uploads/images/The%20Ridge%20Gainesville%205.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "gamre",
+        "description": "bla bla",
+        "location": "HUB",
+        "Parking": 1,
+        "Event_rating": 4.0,
+        "cost": 800,
+        "imag_url": "https://www.swamprentals.com/uploads/images/The%20Ridge%20Gainesville%205.jpeg"
+    }
+]
